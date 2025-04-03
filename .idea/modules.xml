@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5BuilderV2/Seminar5BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5BuilderV2/Seminar5BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5FactoryMethod/Seminar5FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5FactoryMethod/Seminar5FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6Adapter/Seminar6Adapter.iml" filepath="$PROJECT_DIR$/Seminar6Adapter/Seminar6Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6AdapterClase/Seminar6AdapterClase.iml" filepath="$PROJECT_DIR$/Seminar6AdapterClase/Seminar6AdapterClase.iml" />
     </modules>
   </component>
 </project>
