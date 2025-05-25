@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Facade2.src.ro.cts.clase;
 
 public class Autobuz {
     private boolean modLiber;

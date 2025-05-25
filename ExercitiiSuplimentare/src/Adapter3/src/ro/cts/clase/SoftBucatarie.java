@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Adapter3.src.ro.cts.clase;
 
 public class SoftBucatarie {
     private String numeMancare;

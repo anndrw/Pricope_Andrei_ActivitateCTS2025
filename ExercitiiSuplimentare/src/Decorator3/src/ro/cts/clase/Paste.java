@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Decorator3.src.ro.cts.clase;
 
 public class Paste implements Mancare{
     private double pret;

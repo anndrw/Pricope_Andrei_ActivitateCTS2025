@@ -1,9 +1,9 @@
-package ro.cts.main;
+package Decorator3.src.ro.cts.main;
 
-import ro.cts.clase.Mancare;
-import ro.cts.clase.Parmezan;
-import ro.cts.clase.Paste;
-import ro.cts.clase.PrinterMancare;
+
+import Decorator3.src.ro.cts.clase.Mancare;
+import Decorator3.src.ro.cts.clase.Parmezan;
+import Decorator3.src.ro.cts.clase.Paste;
 
 public class Main {
     public static void main(String[] args) {

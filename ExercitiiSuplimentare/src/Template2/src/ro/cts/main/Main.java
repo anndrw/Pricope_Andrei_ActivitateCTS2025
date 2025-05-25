@@ -1,8 +1,9 @@
-package ro.cts.main;
+package Template2.src.ro.cts.main;
 
-import ro.cts.clase.Masa;
-import ro.cts.clase.RestaurantAlocareMasa;
-import ro.cts.clase.TemplateOcupareMasa;
+
+import Template2.src.ro.cts.clase.Masa;
+import Template2.src.ro.cts.clase.RestaurantAlocareMasa;
+import Template2.src.ro.cts.clase.TemplateOcupareMasa;
 
 public class Main {
     public static void main(String[] args) {

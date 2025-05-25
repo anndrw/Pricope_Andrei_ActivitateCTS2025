@@ -1,8 +1,9 @@
-package ro.cts.main;
+package Adapter2.src.ro.cts.main;
 
-import ro.cts.clase.AdapterBilete;
-import ro.cts.clase.BiletSubteran;
-import ro.cts.clase.BiletTerestru;
+
+import Adapter2.src.ro.cts.clase.AdapterBilete;
+import Adapter2.src.ro.cts.clase.BiletSubteran;
+import Adapter2.src.ro.cts.clase.BiletTerestru;
 
 public class Main {
     public static void vindeBilet(BiletTerestru biletTerestru){

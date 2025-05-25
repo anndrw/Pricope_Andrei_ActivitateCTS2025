@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Composite.src.ro.cts.clase;
 
 public interface Structura {
     void adaugaStructura(Structura structura) throws Exception;

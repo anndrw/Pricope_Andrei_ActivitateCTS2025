@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Adapter2.src.ro.cts.clase;
 
 public class BiletTerestru {
     private double pret;

@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Flyweight2.src.ro.cts.clase;
 
 public class AutobuzLinie {
     private String nrLinie;

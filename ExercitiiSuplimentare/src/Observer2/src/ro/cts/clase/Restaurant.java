@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Observer2.src.ro.cts.clase;
 
 public class Restaurant extends NotificareClienti{
 

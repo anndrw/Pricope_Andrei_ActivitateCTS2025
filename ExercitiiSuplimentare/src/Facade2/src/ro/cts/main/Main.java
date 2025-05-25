@@ -1,7 +1,8 @@
-package ro.cts.main;
+package Facade2.src.ro.cts.main;
 
-import ro.cts.clase.Autobuz;
-import ro.cts.clase.Sofer;
+
+import Facade2.src.ro.cts.clase.Autobuz;
+import Facade2.src.ro.cts.clase.Sofer;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Composite2.src.ro.cts.clase;
 
 public class Autobuz implements Structura{
     private String producator;

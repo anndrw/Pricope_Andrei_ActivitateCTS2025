@@ -1,6 +1,7 @@
-package ro.cts.main;
+package ChainOfResp2.src.ro.cts.main;
 
-import ro.cts.clase.*;
+
+import ChainOfResp2.src.ro.cts.clase.*;
 
 public class Main {
     public static void main(String[] args) {

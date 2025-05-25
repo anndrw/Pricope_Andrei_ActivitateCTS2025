@@ -1,8 +1,9 @@
-package ro.cts.main;
+package Adapter3.src.ro.cts.main;
 
-import ro.cts.clase.AdapterSoft;
-import ro.cts.clase.SoftBar;
-import ro.cts.clase.SoftBucatarie;
+
+import Adapter3.src.ro.cts.clase.AdapterSoft;
+import Adapter3.src.ro.cts.clase.SoftBar;
+import Adapter3.src.ro.cts.clase.SoftBucatarie;
 
 public class Main {
     public static void vindeObiect(SoftBar softBar){

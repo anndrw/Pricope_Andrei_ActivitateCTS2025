@@ -1,8 +1,9 @@
-package ro.cts.main;
+package Flyweight2.src.ro.cts.main;
 
-import ro.cts.clase.AutobuzLinie;
-import ro.cts.clase.FabricaAutobuz;
-import ro.cts.clase.IAutobuz;
+
+import Flyweight2.src.ro.cts.clase.AutobuzLinie;
+import Flyweight2.src.ro.cts.clase.FabricaAutobuz;
+import Flyweight2.src.ro.cts.clase.IAutobuz;
 
 public class Main {
     public static void main(String[] args) {

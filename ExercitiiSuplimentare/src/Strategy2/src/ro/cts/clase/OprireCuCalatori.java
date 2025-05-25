@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Strategy2.src.ro.cts.clase;
 
 public class OprireCuCalatori implements IOpresteStatie{
 

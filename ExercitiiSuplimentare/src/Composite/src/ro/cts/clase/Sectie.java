@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Composite.src.ro.cts.clase;
 
 public class Sectie implements Structura{
     private String nume;

@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Template2.src.ro.cts.clase;
 
 public class RestaurantAlocareMasa extends TemplateOcupareMasa{
     private String numeClient;

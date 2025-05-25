@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Observer2.src.ro.cts.clase;
 
 import java.util.ArrayList;
 import java.util.List;

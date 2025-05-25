@@ -1,7 +1,8 @@
-package ro.cts.main;
+package Composite.src.ro.cts.main;
 
-import ro.cts.clase.Departament;
-import ro.cts.clase.Sectie;
+
+import Composite.src.ro.cts.clase.Departament;
+import Composite.src.ro.cts.clase.Sectie;
 
 public class Main {
     public static void main(String[] args){

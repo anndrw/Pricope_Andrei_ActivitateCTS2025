@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Flyweight2.src.ro.cts.clase;
 
 import java.util.HashMap;
 

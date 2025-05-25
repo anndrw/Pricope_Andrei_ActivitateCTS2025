@@ -1,8 +1,9 @@
-package ro.cts.main;
+package Decorator2.src.ro.cts.main;
 
-import ro.cts.clase.Bautura;
-import ro.cts.clase.Espresso;
-import ro.cts.clase.LapteDecorator;
+
+import Decorator2.src.ro.cts.clase.Bautura;
+import Decorator2.src.ro.cts.clase.Espresso;
+import Decorator2.src.ro.cts.clase.LapteDecorator;
 
 public class Main {
     public static void main(String[] args) {

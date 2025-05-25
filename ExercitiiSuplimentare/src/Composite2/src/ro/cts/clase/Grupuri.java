@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package Composite2.src.ro.cts.clase;
 
 import java.sql.Struct;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package ChainOfResp2.src.ro.cts.clase;
 
 public abstract class InfoClienti {
     private InfoClienti notificare;

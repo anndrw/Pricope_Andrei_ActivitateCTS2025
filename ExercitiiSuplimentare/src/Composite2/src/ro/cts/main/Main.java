@@ -1,7 +1,8 @@
-package ro.cts.main;
+package Composite2.src.ro.cts.main;
 
-import ro.cts.clase.Autobuz;
-import ro.cts.clase.Grupuri;
+
+import Composite2.src.ro.cts.clase.Autobuz;
+import Composite2.src.ro.cts.clase.Grupuri;
 
 public class Main {
     public static void main(String[] args) {

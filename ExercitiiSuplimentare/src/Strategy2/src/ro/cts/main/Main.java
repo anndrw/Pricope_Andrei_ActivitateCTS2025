@@ -1,9 +1,9 @@
-package ro.cts.main;
+package Strategy2.src.ro.cts.main;
 
-import ro.cts.clase.Autobuz;
-import ro.cts.clase.IOpresteStatie;
-import ro.cts.clase.OprireCuCalatori;
-import ro.cts.clase.OprireFaraCalatori;
+
+import Strategy2.src.ro.cts.clase.Autobuz;
+import Strategy2.src.ro.cts.clase.OprireCuCalatori;
+import Strategy2.src.ro.cts.clase.OprireFaraCalatori;
 
 public class Main {
     public static void main(String[] args) {

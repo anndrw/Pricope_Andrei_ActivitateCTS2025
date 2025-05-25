@@ -1,9 +1,10 @@
-package ro.cts.main;
+package Observer2.src.ro.cts.main;
 
-import ro.cts.clase.Client;
-import ro.cts.clase.NotificareClienti;
-import ro.cts.clase.Observer;
-import ro.cts.clase.Restaurant;
+
+import Observer2.src.ro.cts.clase.Client;
+import Observer2.src.ro.cts.clase.NotificareClienti;
+import Observer2.src.ro.cts.clase.Observer;
+import Observer2.src.ro.cts.clase.Restaurant;
 
 public class Main {
     public static void main(String[] args) {

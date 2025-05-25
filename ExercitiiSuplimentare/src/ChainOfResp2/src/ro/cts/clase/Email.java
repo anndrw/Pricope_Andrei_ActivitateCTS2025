@@ -1,4 +1,4 @@
-package ro.cts.clase;
+package ChainOfResp2.src.ro.cts.clase;
 
 public class Email extends InfoClienti{
 
